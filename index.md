@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+---
+title: Фитнес речи
+no_date: true
+no_comments: true
+head:
+  - - meta
+    - name: description
+      content: 'Фитнес речи Формирование Культуры Публичных Выступлений. Проект Фитнес речи — часть движения за свободные Программы Обучения для Публичных Выступлений, выступает за свободу программ Преподавателей Техники Речи, Мастерства, Слова! Ассоциировать Программу Обучения для Публичных Выступлений с проектом и Манифестом может открыто и бесплатно каждый.'
+  - - meta
+    - name: keywords 
+      content: 'Фитнес речи Публичных Бизнес Выступлений'
+  - - meta
+    - name: 'mailru-verification'
+      content: 'a9b3816f57ccf1f9'
+---
 
-You can use the [editor on GitHub](https://github.com/speech-fitness-fun/speech-fitness.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Фитнес речи
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Формирование Культуры Публичных Выступлений
 
-### Markdown
+- фитнес слова
+- фитнес речи
+- фитнес подачи
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Манифест
 
-```markdown
-Syntax highlighted code block
+Манифест Фитнеса речи был написан, чтобы просить о поддержке в разработке Программы Обучения для Публичных Выступлений.
+Часть текста была взята из книг и текстов Публичных Выступлений Преподавателей Техники Речи, Мастерства, Слова.
+Чтобы отметить развитие Культуры Публичных Выступлений Манифест будет меняться; с тех пор, как Конвенция будет подписана многими Преподавателями Публичных Выступлений, представляется наилучшим оставить его неизменным.
+С тех пор как мы узнали о распространенных неверных толкованиях определенных понятий - Манифест стал известным местом распространенным толкованием верных понятий.
 
-# Header 1
-## Header 2
-### Header 3
+Проект Фитнес речи — часть движения за свободные Программы Обучения для Публичных Выступлений.
+Проект Фитнес речи — выступает за свободу программ Преподавателей Техники Речи, Мастерства, Слова.
+Ассоциировать Программу Обучения для Публичных Выступлений с проектом и Манифестом может открыто и бесплатно каждый [ДАЛЕЕ](/manifesto)
 
-- Bulleted
-- List
+## Конвенция
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/speech-fitness-fun/speech-fitness.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
